@@ -1,3 +1,3 @@
-# Web của PP
+# Yettix2k
 
 ![screenshot](images/header.png)
